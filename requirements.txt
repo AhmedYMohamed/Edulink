@@ -1,0 +1,31 @@
+google-api-python-client>=2.70.0
+google-auth>=2.16.0
+google-auth-oauthlib>=0.8.0
+google-auth-httplib2>=0.1.0
+schedule>=1.1.0
+pandas>=1.5.0
+
+# Google API Dependencies
+google-api-python-client>=2.70.0
+google-auth>=2.16.0
+google-auth-oauthlib>=0.8.0
+google-auth-httplib2>=0.1.0
+
+# Scheduling
+schedule>=1.1.0
+
+# Data Processing
+pandas>=1.5.0
+
+# Optional: For PostgreSQL support (if migrating from SQLite)
+# psycopg2-binary>=2.9.0
+
+# Optional: For data visualization
+# plotly>=5.0.0
+# matplotlib>=3.5.0
+
+# Optional: For web API (if building REST endpoints)
+# flask>=2.0.0
+
+# Optional: For email notifications
+# python-dotenv>=0.19.0
